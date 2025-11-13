@@ -1,6 +1,6 @@
 # Ex.No:2
 # Ex.Name: Write a CPP program for Infix To Postfix Conversion using Stack STL
-## Date:
+## Date: 04/09/2025
 ## Aim:
 To write a C++ program to convert an infix expression into a postfix expression using the Stack STL.
 
